@@ -1,0 +1,5 @@
+{
+  "name": "Smart Campus 2.0",
+  "description": "A prototype for a smart campus portal featuring a dynamic QR attendance system and an AI-powered department appointment booking bot.",
+  "requestFramePermissions": []
+}
